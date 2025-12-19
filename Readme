@@ -1,0 +1,10 @@
+scrapy crawl flipkart_search -a query=mobiles -O mobiles.json
+
+
+Use the same command (will use the new default 55):
+
+scrapy crawl flipkart_search -a query=mobiles -O mobiles.json
+
+Or explicitly set a different limit at runtime:
+
+scrapy crawl flipkart_search -a query=mobiles -a max_items=55 -O mobiles.json

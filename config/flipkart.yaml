@@ -1,0 +1,6 @@
+queries:
+  - mobiles
+  - tablets
+
+max_pages: 20
+download_delay: 4.5
