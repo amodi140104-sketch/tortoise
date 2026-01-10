@@ -4,7 +4,7 @@
     "product_url": "https://www.flipkart.com/samsung-galaxy-f06-5g-bahama-blue-64-gb/p/itma2920c68b7fc8?pid=MOBHBF5JDCSG2TVD&lid=LSTMOBHBF5JDCSG2TVDZWHXAM&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_1_24&otracker=search&fm=organic&iid=5e01cad2-c705-4a86-9409-44a11781e1b1.MOBHBF5JDCSG2TVD.SEARCH&ppt=None&ppn=None&ssid=a739op1j5s0000001767113877110&qH=a81ad6e72f7a2fd1",
     "page": 1,
     "product_id": "MOBHBF5JDCSG2TVD",
-    "scraped_at": "2025-12-30T22:28:08.692350+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156257",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories",
       "Covered in Warranty": "Manufacturing Defects Only",
@@ -137,14 +137,16 @@
     },
     "price": 8999,
     "title": "Samsung Galaxy F06 5G (Bahama Blue, 64 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 8999,
+    "value_score": 0.0
   },
   {
     "rating": 4.4,
     "product_url": "https://www.flipkart.com/vivo-t4x-5g-glacial-teal-128-gb/p/itm017656bdd097b?pid=MOBHFEWDW4XHPCHC&lid=LSTMOBHFEWDW4XHPCHCKMGWKS&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_48&otracker=search&fm=organic&iid=bff3b49d-7ee5-4717-8a3a-494afaaf7cca.MOBHFEWDW4XHPCHC.SEARCH&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBHFEWDW4XHPCHC",
-    "scraped_at": "2025-12-30T22:28:14.016078+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156353",
     "specs_json": {
       "Warranty Summary": "1 Year Warranty for Device and 6 Months Warranty for Accessories",
       "Domestic Warranty": "1 Year",
@@ -229,14 +231,16 @@
     },
     "price": 16499,
     "title": "vivo T4x 5G (Glacial Teal, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 16499,
+    "value_score": 0.0
   },
   {
     "rating": 4.2,
     "product_url": "https://www.flipkart.com/motorola-g35-5g-leaf-green-128-gb/p/itma3ca32cc93927?pid=MOBH3YGPQHRSNQED&lid=LSTMOBH3YGPQHRSNQEDYQVXQ1&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_47&otracker=search&fm=organic&iid=bff3b49d-7ee5-4717-8a3a-494afaaf7cca.MOBH3YGPQHRSNQED.SEARCH&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBH3YGPQHRSNQED",
-    "scraped_at": "2025-12-30T22:28:20.059034+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156391",
     "specs_json": {
       "Warranty Summary": "1 Year on Handset and 6 Months on Accessories",
       "Domestic Warranty": "1 Year",
@@ -325,14 +329,16 @@
     },
     "price": 9999,
     "title": "MOTOROLA g35 5G (Leaf Green, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 9999,
+    "value_score": 0.0
   },
   {
     "rating": 4.4,
     "product_url": "https://www.flipkart.com/motorola-g96-5g-pantone-greener-pastures-256-gb/p/itma540ff796e078?pid=MOBHB3SZBFGXFGXR&lid=LSTMOBHB3SZBFGXFGXRKTLVL7&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_46&otracker=search&fm=organic&iid=bff3b49d-7ee5-4717-8a3a-494afaaf7cca.MOBHB3SZBFGXFGXR.SEARCH&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBHB3SZBFGXFGXR",
-    "scraped_at": "2025-12-30T22:28:26.348030+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156407",
     "specs_json": {
       "Warranty Summary": "1 Year Warranty on Handset and 6 Months Warranty on Accessories",
       "Domestic Warranty": "1 Year",
@@ -418,14 +424,16 @@
     },
     "price": 19999,
     "title": "MOTOROLA G96 5G (Pantone Greener Pastures, 256 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 19999,
+    "value_score": 0.0
   },
   {
     "rating": 4.3,
     "product_url": "https://www.flipkart.com/poco-m7-pro-5g-lunar-dust-128-gb/p/itm59a079d57519a?pid=MOBH7443YUP5EJXZ&lid=LSTMOBH7443YUP5EJXZN5B3CD&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_45&otracker=search&fm=organic&iid=bff3b49d-7ee5-4717-8a3a-494afaaf7cca.MOBH7443YUP5EJXZ.SEARCH&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBH7443YUP5EJXZ",
-    "scraped_at": "2025-12-30T22:28:32.261395+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156416",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
       "Domestic Warranty": "1 Year",
@@ -531,14 +539,16 @@
     },
     "price": 12999,
     "title": "POCO M7 Pro 5G (Lunar Dust, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 12999,
+    "value_score": 0.0
   },
   {
     "rating": 4.4,
     "product_url": "https://www.flipkart.com/motorola-edge-60-fusion-5g-pantone-mykonos-blue-256-gb/p/itmdbb95e3f12ab6?pid=MOBH9ARFZXNHC7VZ&lid=LSTMOBH9ARFZXNHC7VZJODZOO&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_44&otracker=search&fm=organic&iid=bff3b49d-7ee5-4717-8a3a-494afaaf7cca.MOBH9ARFZXNHC7VZ.SEARCH&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBH9ARFZXNHC7VZ",
-    "scraped_at": "2025-12-30T22:28:38.432900+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156425",
     "specs_json": {
       "Smartphone": "Yes",
       "SMS": "Yes",
@@ -622,14 +632,16 @@
     },
     "price": 22999,
     "title": "MOTOROLA Edge 60 Fusion 5G (PANTONE Mykonos Blue, 256 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 22999,
+    "value_score": 0.0
   },
   {
     "rating": 4.4,
     "product_url": "https://www.flipkart.com/oppo-k13x-5g-6000mah-45w-supervooc-charger-ai-sunset-peach-128-gb/p/itm62b2e62fbb43e?pid=MOBHDY9PFEUDUVBH&lid=LSTMOBHDY9PFEUDUVBH9J1IMA&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_43&otracker=search&fm=organic&iid=bff3b49d-7ee5-4717-8a3a-494afaaf7cca.MOBHDY9PFEUDUVBH.SEARCH&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBHDY9PFEUDUVBH",
-    "scraped_at": "2025-12-30T22:28:44.529649+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156433",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories",
       "Domestic Warranty": "1 Year",
@@ -733,14 +745,16 @@
     },
     "price": 12499,
     "title": "OPPO K13x 5G 6000mAh and 45W SUPERVOOC Charger & AI (Sunset Peach, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 12499,
+    "value_score": 0.0
   },
   {
     "rating": 4.4,
     "product_url": "https://www.flipkart.com/vivo-t4x-5g-pronto-purple-256-gb/p/itm017656bdd097b?pid=MOBH9JUS4GGGPJHJ&lid=LSTMOBH9JUS4GGGPJHJMC4C45&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_42&otracker=search&fm=organic&iid=bff3b49d-7ee5-4717-8a3a-494afaaf7cca.MOBH9JUS4GGGPJHJ.SEARCH&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBH9JUS4GGGPJHJ",
-    "scraped_at": "2025-12-30T22:28:48.513066+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156441",
     "specs_json": {
       "Warranty Summary": "1 Year Warranty for Device and 6 Months Warranty for Accessories",
       "Domestic Warranty": "1 Year",
@@ -825,14 +839,16 @@
     },
     "price": 18499,
     "title": "vivo T4x 5G (Pronto Purple, 256 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 18499,
+    "value_score": 0.0
   },
   {
     "rating": 4.3,
     "product_url": "https://www.flipkart.com/realme-narzo-80-lite-4g-beach-gold-128-gb/p/itm2890cac28063f?pid=MOBHEGXGSGKXQ2S2&lid=LSTMOBHEGXGSGKXQ2S2ZN9UR8&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_41&otracker=search&fm=organic&iid=bff3b49d-7ee5-4717-8a3a-494afaaf7cca.MOBHEGXGSGKXQ2S2.SEARCH&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBHEGXGSGKXQ2S2",
-    "scraped_at": "2025-12-30T22:28:55.037266+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156449",
     "specs_json": {
       "Smartphone": "Yes",
       "SIM Size": "Nano SIM",
@@ -893,14 +909,16 @@
     },
     "price": 8802,
     "title": "realme Narzo 80 Lite 4G (Beach Gold, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 8802,
+    "value_score": 0.0
   },
   {
     "rating": 4.4,
     "product_url": "https://www.flipkart.com/realme-p4x-5g-elegant-pink-128-gb/p/itm575b1540859e4?pid=MOBHHTPHQ94KD9HB&lid=LSTMOBHHTPHQ94KD9HBEWG845&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_40&otracker=search&fm=organic&iid=bff3b49d-7ee5-4717-8a3a-494afaaf7cca.MOBHHTPHQ94KD9HB.SEARCH&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBHHTPHQ94KD9HB",
-    "scraped_at": "2025-12-30T22:29:00.784648+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156458",
     "specs_json": {
       "MMS": "Yes",
       "Graphics PPI": "391 ppi",
@@ -962,14 +980,16 @@
     },
     "price": 15999,
     "title": "realme P4x 5G (Elegant Pink, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 15999,
+    "value_score": 0.0
   },
   {
     "rating": 4.3,
     "product_url": "https://www.flipkart.com/motorola-g86-power-5g-pantone-spellbound-128-gb/p/itm88e00feaf98b7?pid=MOBHC7FHKME4AJQC&lid=LSTMOBHC7FHKME4AJQCQLFEWU&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_39&otracker=search&fm=organic&iid=bff3b49d-7ee5-4717-8a3a-494afaaf7cca.MOBHC7FHKME4AJQC.SEARCH&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBHC7FHKME4AJQC",
-    "scraped_at": "2025-12-30T22:29:07.227229+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156466",
     "specs_json": {
       "Warranty Summary": "1 Year Warranty on Handset and 6 Months Warranty on Accessories",
       "Domestic Warranty": "1 Year",
@@ -1055,14 +1075,16 @@
     },
     "price": 17999,
     "title": "MOTOROLA G86 Power 5G (Pantone Spellbound, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 17999,
+    "value_score": 0.0
   },
   {
     "rating": 4.4,
     "product_url": "https://www.flipkart.com/vivo-t4x-5g-pronto-purple-128-gb/p/itm017656bdd097b?pid=MOBH9JUSZFBNVDXM&lid=LSTMOBH9JUSZFBNVDXMZM1RXR&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&spotlightTagId=default_BestsellerId_tyy%2F4io&srno=s_2_38&otracker=search&fm=organic&iid=bff3b49d-7ee5-4717-8a3a-494afaaf7cca.MOBH9JUSZFBNVDXM.SEARCH&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBH9JUSZFBNVDXM",
-    "scraped_at": "2025-12-30T22:29:13.636968+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156475",
     "specs_json": {
       "Warranty Summary": "1 Year Warranty for Device and 6 Months Warranty for Accessories",
       "Domestic Warranty": "1 Year",
@@ -1147,14 +1169,16 @@
     },
     "price": 15499,
     "title": "vivo T4x 5G (Pronto Purple, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 15499,
+    "value_score": 0.0
   },
   {
     "rating": 4.5,
     "product_url": "https://www.flipkart.com/motorola-g57-power-5g-pantone-fluidity-128-gb/p/itmc6e41a74b61cb?pid=MOBHGRFETGRHVJ33&lid=LSTMOBHGRFETGRHVJ33PIGRLQ&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_37&otracker=search&fm=organic&iid=bff3b49d-7ee5-4717-8a3a-494afaaf7cca.MOBHGRFETGRHVJ33.SEARCH&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBHGRFETGRHVJ33",
-    "scraped_at": "2025-12-30T22:29:19.971316+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156483",
     "specs_json": {
       "MMS": "Yes",
       "Graphics PPI": "391 ppi",
@@ -1166,7 +1190,7 @@
       "Warranty Period": "1 Year",
       "Battery Capacity": "7000 mAh",
       "Brand": "MOTOROLA",
-      "In The Box": "1 x Handset, 1 x USB Type-C cable, 1 x Guides, 1 x SIM tool, 1 x TurboPower™ 33W charger",
+      "In The Box": "1 x Handset, 1 x USB Type-C cable, 1 x Guides, 1 x SIM tool, 1 x TurboPower\u2122 33W charger",
       "Model Number": "PBAF0001IN|PBAF0004IN",
       "Model Name": "g57 power 5G",
       "Color": "Pantone Fluidity",
@@ -1184,7 +1208,7 @@
       "Depth": "8.6 mm",
       "Weight": "210.6 g",
       "Display Size": "17.07 cm (6.72 inch)",
-      "Resolution": "2400p × 1080 pixels",
+      "Resolution": "2400p \u00d7 1080 pixels",
       "Resolution Type": "Full HD+",
       "Display Type": "LCD",
       "HD Game Support": "Yes",
@@ -1199,7 +1223,7 @@
       "RAM": "8 GB",
       "Primary Camera Available": "Yes",
       "Primary Camera": "50MP + 8MP",
-      "Primary Camera Features": "Shooting modes: Night Vision Mode, Auto Night Vision, Portrait, Panorama, Pro Mode (w/ Long Exposure), Live Filter, HDR, Adobe Scan, Ultra-Res, Artificial intelligence: Shot Optimization, Auto Smile Capture, Google Lens™ integration, Other features: High-res Digital Zoom (up to 8x), Timer, Burst shot, Snap in Video Recording, Assistive Grid, Leveler, Watermark, QR/ Barcode Scanner, Location Information, RAW Photo Output, Selfie Stick Support, Google Photos Editing: Magic Eraser, Photo Unblur, Reimagine, Auto Frame, Portrait Blur, Portrait Light, Sky, Color Pop, Cinematic Photos, Rear main camera: 2K (30fps), FHD (30fps/60fps), Rear ultra-wide angle:2K (30fps), FHD (30fps), Shooting modes: Dual Capture, Timelapse (w/ Hyperlapse), Slow Motion (HD@120fps, Live Filter, Other features: High-res Digital Zoom (up to 6x), Assistive Grid, Leveler, Video Stabilization (EIS), Audio Zoom",
+      "Primary Camera Features": "Shooting modes: Night Vision Mode, Auto Night Vision, Portrait, Panorama, Pro Mode (w/ Long Exposure), Live Filter, HDR, Adobe Scan, Ultra-Res, Artificial intelligence: Shot Optimization, Auto Smile Capture, Google Lens\u2122 integration, Other features: High-res Digital Zoom (up to 8x), Timer, Burst shot, Snap in Video Recording, Assistive Grid, Leveler, Watermark, QR/ Barcode Scanner, Location Information, RAW Photo Output, Selfie Stick Support, Google Photos Editing: Magic Eraser, Photo Unblur, Reimagine, Auto Frame, Portrait Blur, Portrait Light, Sky, Color Pop, Cinematic Photos, Rear main camera: 2K (30fps), FHD (30fps/60fps), Rear ultra-wide angle:2K (30fps), FHD (30fps), Shooting modes: Dual Capture, Timelapse (w/ Hyperlapse), Slow Motion (HD@120fps, Live Filter, Other features: High-res Digital Zoom (up to 6x), Assistive Grid, Leveler, Video Stabilization (EIS), Audio Zoom",
       "Secondary Camera": "8MP Front Camera",
       "Secondary Camera Features": "Portrait, Pro Mode, Photo Booth, Auto Smile Capture, AutoNight Vision, Gesture Selfie, Face Retouch, Selfie Photo Mirror",
       "Flash": "Dual LED flash",
@@ -1220,14 +1244,16 @@
     },
     "price": 14999,
     "title": "MOTOROLA g57 power 5G (Pantone Fluidity, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 14999,
+    "value_score": 0.0
   },
   {
     "rating": 4.4,
     "product_url": "https://www.flipkart.com/cmf-nothing-phone-2-pro-black-256-gb/p/itm46a119f176627?pid=MOBHAUHAY7BY7PT5&lid=LSTMOBHAUHAY7BY7PT52UMFU9&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_36&otracker=search&fm=organic&iid=bff3b49d-7ee5-4717-8a3a-494afaaf7cca.MOBHAUHAY7BY7PT5.SEARCH&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBHAUHAY7BY7PT5",
-    "scraped_at": "2025-12-30T22:29:27.081898+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156492",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturing Warranty",
       "Warranty Service Type": "Offsite Warranty",
@@ -1334,14 +1360,16 @@
     },
     "price": 20999,
     "title": "CMF by Nothing Phone 2 Pro (Black, 256 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 20999,
+    "value_score": 0.0
   },
   {
     "rating": 4.1,
     "product_url": "https://www.flipkart.com/itel-it5330-2-8-inch-big-display-1900-mah-battery-kingvoice/p/itmfb08600c266c4?pid=MOBGW5HN7DGXGNMS&lid=LSTMOBGW5HN7DGXGNMSSBP1DL&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_35&otracker=search&fm=organic&iid=bff3b49d-7ee5-4717-8a3a-494afaaf7cca.MOBGW5HN7DGXGNMS.SEARCH&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBGW5HN7DGXGNMS",
-    "scraped_at": "2025-12-30T22:29:34.108005+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156500",
     "specs_json": {
       "Warranty Summary": "12+1 month manufacturer warranty",
       "Warranty Service Type": "Service Center",
@@ -1477,19 +1505,21 @@
     },
     "price": 1349,
     "title": "itel it5330 | 2.8 inch Big Display | 1900 mAh Battery | Kingvoice",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 1349,
+    "value_score": 0.0
   },
   {
     "rating": 4.3,
     "product_url": "https://www.flipkart.com/motorola-g06-power-tapestry-64-gb/p/itmf590d83ca72c5?pid=MOBHFSCEW8DQVKDZ&lid=LSTMOBHFSCEW8DQVKDZ2CWXCB&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_34&otracker=search&fm=organic&iid=bff3b49d-7ee5-4717-8a3a-494afaaf7cca.MOBHFSCEW8DQVKDZ.SEARCH&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBHFSCEW8DQVKDZ",
-    "scraped_at": "2025-12-30T22:29:39.926873+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156508",
     "specs_json": {
       "Graphics PPI": "263 ppi",
       "Sensors": "Accelerometer, Sensor hub, Proximity, Fingerprint reader, Ambient light",
       "Browser": "Google chrome",
-      "Other Features": "IP64 Water-resistant design, Corning® Gorilla® Glass 3, Stereo speakers, Dolby Atmos",
+      "Other Features": "IP64 Water-resistant design, Corning\u00ae Gorilla\u00ae Glass 3, Stereo speakers, Dolby Atmos",
       "Warranty Summary": "1 Year Warranty on Handset and 6 Months Warranty on Accessories",
       "Domestic Warranty": "1 Year",
       "International Warranty": "1 Year",
@@ -1549,14 +1579,16 @@
     },
     "price": 7999,
     "title": "MOTOROLA g06 power (Tapestry, 64 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 7999,
+    "value_score": 0.0
   },
   {
     "rating": 4.4,
     "product_url": "https://www.flipkart.com/cmf-nothing-phone-2-pro-white-128-gb/p/itm46a119f176627?pid=MOBHAUHAEYXGMWMY&lid=LSTMOBHAUHAEYXGMWMYQAMRLL&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_33&otracker=search&fm=organic&iid=bff3b49d-7ee5-4717-8a3a-494afaaf7cca.MOBHAUHAEYXGMWMY.SEARCH&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBHAUHAEYXGMWMY",
-    "scraped_at": "2025-12-30T22:29:45.888503+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156516",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturing Warranty",
       "Warranty Service Type": "Offsite Warranty",
@@ -1663,14 +1695,16 @@
     },
     "price": 18999,
     "title": "CMF by Nothing Phone 2 Pro (White, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 18999,
+    "value_score": 0.0
   },
   {
     "rating": 4.5,
     "product_url": "https://www.flipkart.com/google-pixel-10-lemongrass-256-gb/p/itmb9d9694811d2e?pid=MOBHEXHRGZ3WMHNS&lid=LSTMOBHEXHRGZ3WMHNSOAQRPP&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_32&otracker=search&fm=organic&iid=en_yVtBvzDlI8kLXDsqK7zaWtDYSFnZagz1lfwW55SL76FTIPGbYm_d0PZ5mDJinGfRAC64m4B-qdF8wG6LzVvmBPUFjCTyOHoHZs-Z5_PS_w0%3D&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBHEXHRGZ3WMHNS",
-    "scraped_at": "2025-12-30T22:29:52.371690+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156524",
     "specs_json": {
       "Warranty Summary": "1 Year Domestic Warranty",
       "Warranty Service Type": "For any warranty related issues, please contact Google Customer Support via g.co/pixel/servicein",
@@ -1786,14 +1820,16 @@
     },
     "price": 79999,
     "title": "Google Pixel 10 (Lemongrass, 256 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 79999,
+    "value_score": 0.0
   },
   {
     "rating": 4.5,
     "product_url": "https://www.flipkart.com/google-pixel-10-frost-256-gb/p/itm180af25bcc197?pid=MOBHEXHRXDGMF8XZ&lid=LSTMOBHEXHRXDGMF8XZ4R1W9O&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_31&otracker=search&fm=organic&iid=en_yVtBvzDlI8kLXDsqK7zaWtDYSFnZagz1lfwW55SL76E4GYe7I_lRyrgbWqQHeNQx6KjCKsmR86BhkTQ_-Tvn8fUFjCTyOHoHZs-Z5_PS_w0%3D&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBHEXHRXDGMF8XZ",
-    "scraped_at": "2025-12-30T22:29:58.138991+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156533",
     "specs_json": {
       "Warranty Summary": "1 Year Domestic Warranty",
       "Warranty Service Type": "For any warranty related issues, please contact Google Customer Support via g.co/pixel/servicein",
@@ -1909,14 +1945,16 @@
     },
     "price": 79999,
     "title": "Google Pixel 10 (Frost, 256 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 79999,
+    "value_score": 0.0
   },
   {
     "rating": 4.4,
     "product_url": "https://www.flipkart.com/cmf-nothing-phone-2-pro-black-128-gb/p/itm46a119f176627?pid=MOBHAUHA5GRW9FS2&lid=LSTMOBHAUHA5GRW9FS2YEJJV3&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_30&otracker=search&fm=organic&iid=bff3b49d-7ee5-4717-8a3a-494afaaf7cca.MOBHAUHA5GRW9FS2.SEARCH&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBHAUHA5GRW9FS2",
-    "scraped_at": "2025-12-30T22:30:04.236694+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156541",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturing Warranty",
       "Warranty Service Type": "Offsite Warranty",
@@ -2023,14 +2061,16 @@
     },
     "price": 18999,
     "title": "CMF by Nothing Phone 2 Pro (Black, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 18999,
+    "value_score": 0.0
   },
   {
     "rating": 4.2,
     "product_url": "https://www.flipkart.com/poco-c75-5g-silver-stardust-64-gb/p/itm8e3f17ac2e724?pid=MOBH74433ZER9U4P&lid=LSTMOBH74433ZER9U4PIWWXRK&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&spotlightTagId=default_BestsellerId_tyy%2F4io&srno=s_2_29&otracker=search&fm=organic&iid=bff3b49d-7ee5-4717-8a3a-494afaaf7cca.MOBH74433ZER9U4P.SEARCH&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBH74433ZER9U4P",
-    "scraped_at": "2025-12-30T22:30:10.548090+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156550",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
       "Domestic Warranty": "1 Year",
@@ -2133,14 +2173,16 @@
     },
     "price": 8299,
     "title": "POCO C75 5G (Silver Stardust, 64 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 8299,
+    "value_score": 0.0
   },
   {
     "rating": 4.5,
     "product_url": "https://www.flipkart.com/google-pixel-10-obsidian-256-gb/p/itm06bd3add90074?pid=MOBHEXHRCFEKF6DH&lid=LSTMOBHEXHRCFEKF6DHTZJWDY&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_28&otracker=search&fm=organic&iid=en_yVtBvzDlI8kLXDsqK7zaWtDYSFnZagz1lfwW55SL76Em8gM9kyzK8mQcOOrzjvXeMBX8J7-YgzM33AOjp5WbHPUFjCTyOHoHZs-Z5_PS_w0%3D&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBHEXHRCFEKF6DH",
-    "scraped_at": "2025-12-30T22:30:16.685724+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156559",
     "specs_json": {
       "Warranty Summary": "1 Year Domestic Warranty",
       "Warranty Service Type": "For any warranty related issues, please contact Google Customer Support via g.co/pixel/servicein",
@@ -2256,14 +2298,16 @@
     },
     "price": 79999,
     "title": "Google Pixel 10 (Obsidian, 256 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 79999,
+    "value_score": 0.0
   },
   {
     "rating": 4.5,
     "product_url": "https://www.flipkart.com/google-pixel-10-indigo-256-gb/p/itmb05d65622b9dd?pid=MOBHEXHRFEFHHU7Z&lid=LSTMOBHEXHRFEFHHU7ZZDUWDK&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_27&otracker=search&fm=organic&iid=en_yVtBvzDlI8kLXDsqK7zaWtDYSFnZagz1lfwW55SL76EOA3D4EEs7Rnqjju52EEmOckO_2bqgpC6agnQwX6iU0_UFjCTyOHoHZs-Z5_PS_w0%3D&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBHEXHRFEFHHU7Z",
-    "scraped_at": "2025-12-30T22:30:23.114967+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156568",
     "specs_json": {
       "Warranty Summary": "1 Year Domestic Warranty",
       "Warranty Service Type": "For any warranty related issues, please contact Google Customer Support via g.co/pixel/servicein",
@@ -2379,14 +2423,16 @@
     },
     "price": 79999,
     "title": "Google Pixel 10 (Indigo, 256 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 79999,
+    "value_score": 0.0
   },
   {
     "rating": 4.4,
     "product_url": "https://www.flipkart.com/vivo-t4-lite-5g-charger-box-titanium-gold-128-gb/p/itm9886d6e522c4b?pid=MOBHDY9F2NKVDSYE&lid=LSTMOBHDY9F2NKVDSYENNGQ9C&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_26&otracker=search&fm=organic&iid=bff3b49d-7ee5-4717-8a3a-494afaaf7cca.MOBHDY9F2NKVDSYE.SEARCH&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBHDY9F2NKVDSYE",
-    "scraped_at": "2025-12-30T22:30:29.570978+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156576",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories",
       "Domestic Warranty": "1 Year",
@@ -2474,14 +2520,16 @@
     },
     "price": 11999,
     "title": "vivo T4 Lite 5G Charger in the Box (Titanium Gold, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 11999,
+    "value_score": 0.0
   },
   {
     "rating": 4.2,
     "product_url": "https://www.flipkart.com/samsung-galaxy-f06-5g-lit-violet-64-gb/p/itm1390a80a68073?pid=MOBHBF5JG3BPANSG&lid=LSTMOBHBF5JG3BPANSGGH4X65&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_2_25&otracker=search&fm=organic&iid=bff3b49d-7ee5-4717-8a3a-494afaaf7cca.MOBHBF5JG3BPANSG.SEARCH&ppt=None&ppn=None&ssid=kuxtnmneq80000001767113882191&qH=a81ad6e72f7a2fd1",
     "page": 2,
     "product_id": "MOBHBF5JG3BPANSG",
-    "scraped_at": "2025-12-30T22:30:35.776077+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156584",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories",
       "Covered in Warranty": "Manufacturing Defects Only",
@@ -2614,14 +2662,16 @@
     },
     "price": 8999,
     "title": "Samsung Galaxy F06 5G (Lit Violet, 64 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 8999,
+    "value_score": 0.0
   },
   {
     "rating": 3.9,
     "product_url": "https://www.flipkart.com/poco-c71-power-black-64-gb/p/itmfb6380853ba44?pid=MOBHAFVJVYASFAXY&lid=LSTMOBHAFVJVYASFAXY1IP4BK&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_1_23&otracker=search&fm=organic&iid=5e01cad2-c705-4a86-9409-44a11781e1b1.MOBHAFVJVYASFAXY.SEARCH&ppt=None&ppn=None&ssid=a739op1j5s0000001767113877110&qH=a81ad6e72f7a2fd1",
     "page": 1,
     "product_id": "MOBHAFVJVYASFAXY",
-    "scraped_at": "2025-12-30T22:30:41.871403+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156607",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
       "Domestic Warranty": "1 Year",
@@ -2724,14 +2774,16 @@
     },
     "price": 6799,
     "title": "POCO C71 (Power Black, 64 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 6799,
+    "value_score": 0.0
   },
   {
     "rating": 4.1,
     "product_url": "https://www.flipkart.com/poco-c71-cool-blue-128-gb/p/itmfb10bdbf02c6e?pid=MOBHAFVJURDB9QYR&lid=LSTMOBHAFVJURDB9QYRYNBHTJ&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_1_22&otracker=search&fm=organic&iid=5e01cad2-c705-4a86-9409-44a11781e1b1.MOBHAFVJURDB9QYR.SEARCH&ppt=None&ppn=None&ssid=a739op1j5s0000001767113877110&qH=a81ad6e72f7a2fd1",
     "page": 1,
     "product_id": "MOBHAFVJURDB9QYR",
-    "scraped_at": "2025-12-30T22:30:48.531690+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156616",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
       "Domestic Warranty": "1 Year",
@@ -2834,14 +2886,16 @@
     },
     "price": 7299,
     "title": "POCO C71 (Cool Blue, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 7299,
+    "value_score": 0.0
   },
   {
     "rating": 4.4,
     "product_url": "https://www.flipkart.com/motorola-g67-power-5g-pantone-parachute-128-gb/p/itm983b978f3066a?pid=MOBHFSCEBA7G3HXN&lid=LSTMOBHFSCEBA7G3HXNM6IXLV&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_1_21&otracker=search&fm=organic&iid=5e01cad2-c705-4a86-9409-44a11781e1b1.MOBHFSCEBA7G3HXN.SEARCH&ppt=None&ppn=None&ssid=a739op1j5s0000001767113877110&qH=a81ad6e72f7a2fd1",
     "page": 1,
     "product_id": "MOBHFSCEBA7G3HXN",
-    "scraped_at": "2025-12-30T22:30:54.797128+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156679",
     "specs_json": {
       "MMS": "Yes",
       "Graphics PPI": "391 ppi",
@@ -2886,7 +2940,7 @@
       "RAM": "8 GB",
       "Primary Camera Available": "Yes",
       "Primary Camera": "50MP + 8MP",
-      "Primary Camera Features": "Ultra-Res, Night Vision, Portrait, Panorama, Pro Mode, Scan, Auto Smile Capture, Auto Night Vision, High-res Digital Zoom (Up to 8x), Google Lens™ integration, Ambient Light Sensor",
+      "Primary Camera Features": "Ultra-Res, Night Vision, Portrait, Panorama, Pro Mode, Scan, Auto Smile Capture, Auto Night Vision, High-res Digital Zoom (Up to 8x), Google Lens\u2122 integration, Ambient Light Sensor",
       "Secondary Camera": "32MP Front Camera",
       "Secondary Camera Features": "Portrait, Pro Mode, Photo Booth, Auto Smile Capture, AutoNight Vision, Gesture Selfie, Face Retouch, Selfie Photo Mirror",
       "Flash": "Dual LED flash",
@@ -2907,14 +2961,16 @@
     },
     "price": 16999,
     "title": "MOTOROLA g67 power 5G (Pantone Parachute, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 16999,
+    "value_score": 0.0
   },
   {
     "rating": 4.2,
     "product_url": "https://www.flipkart.com/motorola-g35-5g-midnight-black-128-gb/p/itmd43b3633669c4?pid=MOBHFNAZ9Y54W9ZE&lid=LSTMOBHFNAZ9Y54W9ZEE8A4PR&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_1_20&otracker=search&fm=organic&iid=5e01cad2-c705-4a86-9409-44a11781e1b1.MOBHFNAZ9Y54W9ZE.SEARCH&ppt=None&ppn=None&ssid=a739op1j5s0000001767113877110&qH=a81ad6e72f7a2fd1",
     "page": 1,
     "product_id": "MOBHFNAZ9Y54W9ZE",
-    "scraped_at": "2025-12-30T22:31:00.564910+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156700",
     "specs_json": {
       "Warranty Summary": "1 Year on Handset and 6 Months on Accessories",
       "Domestic Warranty": "1 Year",
@@ -3003,14 +3059,16 @@
     },
     "price": 12499,
     "title": "MOTOROLA g35 5G (Midnight Black, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 12499,
+    "value_score": 0.0
   },
   {
     "rating": 4.1,
     "product_url": "https://www.flipkart.com/poco-c71-power-black-128-gb/p/itm8096ee52d7013?pid=MOBHAFVJJM8BWNKC&lid=LSTMOBHAFVJJM8BWNKCJY0MRA&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_1_19&otracker=search&fm=organic&iid=5e01cad2-c705-4a86-9409-44a11781e1b1.MOBHAFVJJM8BWNKC.SEARCH&ppt=None&ppn=None&ssid=a739op1j5s0000001767113877110&qH=a81ad6e72f7a2fd1",
     "page": 1,
     "product_id": "MOBHAFVJJM8BWNKC",
-    "scraped_at": "2025-12-30T22:31:06.650519+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156709",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
       "Domestic Warranty": "1 Year",
@@ -3113,19 +3171,21 @@
     },
     "price": 7299,
     "title": "POCO C71 (Power Black, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 7299,
+    "value_score": 0.0
   },
   {
     "rating": 4.3,
     "product_url": "https://www.flipkart.com/motorola-g06-power-pantone-tendril-64-gb/p/itm042f1f6d04b3a?pid=MOBHFSCEDQXXDXUQ&lid=LSTMOBHFSCEDQXXDXUQ5OORZ3&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_1_18&otracker=search&fm=organic&iid=5e01cad2-c705-4a86-9409-44a11781e1b1.MOBHFSCEDQXXDXUQ.SEARCH&ppt=None&ppn=None&ssid=a739op1j5s0000001767113877110&qH=a81ad6e72f7a2fd1",
     "page": 1,
     "product_id": "MOBHFSCEDQXXDXUQ",
-    "scraped_at": "2025-12-30T22:31:12.578831+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156716",
     "specs_json": {
       "Graphics PPI": "263 ppi",
       "Sensors": "Accelerometer, Sensor hub, Proximity, Fingerprint reader, Ambient light",
       "Browser": "Google chrome",
-      "Other Features": "IP64 Water-resistant design, Corning® Gorilla® Glass 3, Stereo speakers, Dolby Atmos",
+      "Other Features": "IP64 Water-resistant design, Corning\u00ae Gorilla\u00ae Glass 3, Stereo speakers, Dolby Atmos",
       "Warranty Summary": "1 Year Warranty on Handset and 6 Months Warranty on Accessories",
       "Domestic Warranty": "1 Year",
       "International Warranty": "1 Year",
@@ -3185,14 +3245,16 @@
     },
     "price": 7999,
     "title": "MOTOROLA g06 power (Pantone Tendril, 64 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 7999,
+    "value_score": 0.0
   },
   {
     "rating": 4.2,
     "product_url": "https://www.flipkart.com/motorola-g35-5g-midnight-black-128-gb/p/itm015cbd184b0eb?pid=MOBH3YGPTSA4SZQF&lid=LSTMOBH3YGPTSA4SZQFL1PUJJ&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_1_17&otracker=search&fm=organic&iid=5e01cad2-c705-4a86-9409-44a11781e1b1.MOBH3YGPTSA4SZQF.SEARCH&ppt=None&ppn=None&ssid=a739op1j5s0000001767113877110&qH=a81ad6e72f7a2fd1",
     "page": 1,
     "product_id": "MOBH3YGPTSA4SZQF",
-    "scraped_at": "2025-12-30T22:31:18.464655+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156724",
     "specs_json": {
       "Warranty Summary": "1 Year on Handset and 6 Months on Accessories",
       "Domestic Warranty": "1 Year",
@@ -3281,14 +3343,16 @@
     },
     "price": 9999,
     "title": "MOTOROLA g35 5G (Midnight Black, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 9999,
+    "value_score": 0.0
   },
   {
     "rating": 3.8,
     "product_url": "https://www.flipkart.com/nokia-105/p/itmcf593f1e7bd0b?pid=MOBGQFVG6MXANY2Q&lid=LSTMOBGQFVG6MXANY2QUBWLZA&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_1_16&otracker=search&fm=organic&iid=5e01cad2-c705-4a86-9409-44a11781e1b1.MOBGQFVG6MXANY2Q.SEARCH&ppt=None&ppn=None&ssid=a739op1j5s0000001767113877110&qH=a81ad6e72f7a2fd1",
     "page": 1,
     "product_id": "MOBGQFVG6MXANY2Q",
-    "scraped_at": "2025-12-30T22:31:24.304071+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156733",
     "specs_json": {
       "Warranty Summary": "1YR BRAND WARRANTY ON HANDSET & 6 MONTHS WARRANTY ON ACCESSORIES",
       "Warranty Service Type": "NO WARRANTY",
@@ -3369,14 +3433,16 @@
     },
     "price": 1199,
     "title": "Nokia 105",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 1199,
+    "value_score": 0.0
   },
   {
     "rating": 4.2,
     "product_url": "https://www.flipkart.com/poco-c75-5g-aqua-bliss-128-gb/p/itmc8ac71aacc115?pid=MOBHBC3WFGTCNDD7&lid=LSTMOBHBC3WFGTCNDD7MLABCF&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_1_15&otracker=search&fm=organic&iid=5e01cad2-c705-4a86-9409-44a11781e1b1.MOBHBC3WFGTCNDD7.SEARCH&ppt=None&ppn=None&ssid=a739op1j5s0000001767113877110&qH=a81ad6e72f7a2fd1",
     "page": 1,
     "product_id": "MOBHBC3WFGTCNDD7",
-    "scraped_at": "2025-12-30T22:31:30.149466+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156743",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
       "Domestic Warranty": "1 Year",
@@ -3482,14 +3548,16 @@
     },
     "price": 8749,
     "title": "POCO C75 5G (Aqua Bliss, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 8749,
+    "value_score": 0.0
   },
   {
     "rating": 4.2,
     "product_url": "https://www.flipkart.com/motorola-g05-forest-green-64-gb/p/itme5ed06a5943b9?pid=MOBH5F3Q2SGMAFHR&lid=LSTMOBH5F3Q2SGMAFHRNOV05B&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_1_14&otracker=search&fm=organic&iid=5e01cad2-c705-4a86-9409-44a11781e1b1.MOBH5F3Q2SGMAFHR.SEARCH&ppt=None&ppn=None&ssid=a739op1j5s0000001767113877110&qH=a81ad6e72f7a2fd1",
     "page": 1,
     "product_id": "MOBH5F3Q2SGMAFHR",
-    "scraped_at": "2025-12-30T22:31:36.312108+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156749",
     "specs_json": {
       "Warranty Summary": "1 Year Warranty on Handset and 6 Months Warranty on Accessories",
       "Domestic Warranty": "1 Year",
@@ -3575,14 +3643,16 @@
     },
     "price": 7299,
     "title": "MOTOROLA g05 (Forest Green, 64 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 7299,
+    "value_score": 0.0
   },
   {
     "rating": 3.7,
     "product_url": "https://www.flipkart.com/nokia-all-new-105-single-sim-keypad-phone-built-in-upi-payments/p/itme2299749c4a1c?pid=MOBGQFVG9WPRN3TH&lid=LSTMOBGQFVG9WPRN3THQXALSS&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_1_13&otracker=search&fm=organic&iid=5e01cad2-c705-4a86-9409-44a11781e1b1.MOBGQFVG9WPRN3TH.SEARCH&ppt=None&ppn=None&ssid=a739op1j5s0000001767113877110&qH=a81ad6e72f7a2fd1",
     "page": 1,
     "product_id": "MOBGQFVG9WPRN3TH",
-    "scraped_at": "2025-12-30T22:31:42.458645+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156754",
     "specs_json": {
       "Warranty Summary": "1YR BRAND WARRANTY ON HANDSET & 6 MONTHS WARRANTY ON ACCESSORIES",
       "Warranty Service Type": "Company Warrnty",
@@ -3683,14 +3753,16 @@
     },
     "price": 1199,
     "title": "Nokia All-New 105 Single Sim Keypad Phone with Built-in UPI Payments",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 1199,
+    "value_score": 0.0
   },
   {
     "rating": 4.2,
     "product_url": "https://www.flipkart.com/poco-c75-5g-aqua-bliss-64-gb/p/itm10b3f6f1bc616?pid=MOBH7443MMBCWPPG&lid=LSTMOBH7443MMBCWPPGVOR2LC&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&spotlightTagId=default_FkPickId_tyy%2F4io&srno=s_1_12&otracker=search&fm=organic&iid=5e01cad2-c705-4a86-9409-44a11781e1b1.MOBH7443MMBCWPPG.SEARCH&ppt=None&ppn=None&ssid=a739op1j5s0000001767113877110&qH=a81ad6e72f7a2fd1",
     "page": 1,
     "product_id": "MOBH7443MMBCWPPG",
-    "scraped_at": "2025-12-30T22:31:45.388381+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156759",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
       "Domestic Warranty": "1 Year",
@@ -3793,14 +3865,16 @@
     },
     "price": 8299,
     "title": "POCO C75 5G (Aqua Bliss, 64 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 8299,
+    "value_score": 0.0
   },
   {
     "rating": 3.9,
     "product_url": "https://www.flipkart.com/poco-c71-desert-gold-64-gb/p/itme3dc58af6a04b?pid=MOBHAFVJZ5CHWMH8&lid=LSTMOBHAFVJZ5CHWMH8MZ5M5D&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_1_11&otracker=search&fm=organic&iid=5e01cad2-c705-4a86-9409-44a11781e1b1.MOBHAFVJZ5CHWMH8.SEARCH&ppt=None&ppn=None&ssid=a739op1j5s0000001767113877110&qH=a81ad6e72f7a2fd1",
     "page": 1,
     "product_id": "MOBHAFVJZ5CHWMH8",
-    "scraped_at": "2025-12-30T22:31:50.346611+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156765",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
       "Domestic Warranty": "1 Year",
@@ -3903,14 +3977,16 @@
     },
     "price": 6799,
     "title": "POCO C71 (Desert Gold, 64 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 6799,
+    "value_score": 0.0
   },
   {
     "rating": 4.3,
     "product_url": "https://www.flipkart.com/realme-c61-safari-green-64-gb/p/itmd6ddbcefce040?pid=MOBHFRKRF6ZHBFTW&lid=LSTMOBHFRKRF6ZHBFTW09ES8B&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_1_10&otracker=search&fm=organic&iid=5e01cad2-c705-4a86-9409-44a11781e1b1.MOBHFRKRF6ZHBFTW.SEARCH&ppt=None&ppn=None&ssid=a739op1j5s0000001767113877110&qH=a81ad6e72f7a2fd1",
     "page": 1,
     "product_id": "MOBHFRKRF6ZHBFTW",
-    "scraped_at": "2025-12-30T22:31:56.271380+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156770",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories",
       "Domestic Warranty": "1 Year",
@@ -4003,14 +4079,16 @@
     },
     "price": 7249,
     "title": "realme C61 (Safari Green, 64 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 7249,
+    "value_score": 0.0
   },
   {
     "rating": 4.3,
     "product_url": "https://www.flipkart.com/realme-c61-marble-black-64-gb/p/itmd6ddbcefce040?pid=MOBHFRKRAHPWY9JA&lid=LSTMOBHFRKRAHPWY9JAT5XDHB&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_1_9&otracker=search&fm=organic&iid=5e01cad2-c705-4a86-9409-44a11781e1b1.MOBHFRKRAHPWY9JA.SEARCH&ppt=None&ppn=None&ssid=a739op1j5s0000001767113877110&qH=a81ad6e72f7a2fd1",
     "page": 1,
     "product_id": "MOBHFRKRAHPWY9JA",
-    "scraped_at": "2025-12-30T22:32:01.532409+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156776",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories",
       "Domestic Warranty": "1 Year",
@@ -4103,14 +4181,16 @@
     },
     "price": 7249,
     "title": "realme C61 (Marble Black, 64 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 7249,
+    "value_score": 0.0
   },
   {
     "rating": 4.2,
     "product_url": "https://www.flipkart.com/motorola-g35-5g-guava-red-128-gb/p/itm39bba58f6cdfc?pid=MOBH3YGPWZZB9ZZK&lid=LSTMOBH3YGPWZZB9ZZKFWIZWR&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_1_8&otracker=search&fm=organic&iid=5e01cad2-c705-4a86-9409-44a11781e1b1.MOBH3YGPWZZB9ZZK.SEARCH&ppt=None&ppn=None&ssid=a739op1j5s0000001767113877110&qH=a81ad6e72f7a2fd1",
     "page": 1,
     "product_id": "MOBH3YGPWZZB9ZZK",
-    "scraped_at": "2025-12-30T22:32:07.227169+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156781",
     "specs_json": {
       "Warranty Summary": "1 Year on Handset and 6 Months on Accessories",
       "Domestic Warranty": "1 Year",
@@ -4199,14 +4279,16 @@
     },
     "price": 9999,
     "title": "MOTOROLA g35 5G (Guava Red, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 9999,
+    "value_score": 0.0
   },
   {
     "rating": 4.2,
     "product_url": "https://www.flipkart.com/motorola-g05-plum-red-64-gb/p/itm87af8109384d4?pid=MOBH5F3QKFHEGBFS&lid=LSTMOBH5F3QKFHEGBFSYF5LHW&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_1_7&otracker=search&fm=organic&iid=5e01cad2-c705-4a86-9409-44a11781e1b1.MOBH5F3QKFHEGBFS.SEARCH&ppt=None&ppn=None&ssid=a739op1j5s0000001767113877110&qH=a81ad6e72f7a2fd1",
     "page": 1,
     "product_id": "MOBH5F3QKFHEGBFS",
-    "scraped_at": "2025-12-30T22:32:13.541634+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156786",
     "specs_json": {
       "Warranty Summary": "1 Year Warranty on Handset and 6 Months Warranty on Accessories",
       "Domestic Warranty": "1 Year",
@@ -4292,14 +4374,16 @@
     },
     "price": 7299,
     "title": "MOTOROLA g05 (Plum Red, 64 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 7299,
+    "value_score": 0.0
   },
   {
     "rating": 3.7,
     "product_url": "https://www.flipkart.com/nokia-all-new-105-single-sim-keypad-phone-built-in-upi-payments/p/itm409e24014f9d2?pid=MOBGQFVGYU2F5CYT&lid=LSTMOBGQFVGYU2F5CYT24X1DA&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_1_4&otracker=search&fm=organic&iid=5e01cad2-c705-4a86-9409-44a11781e1b1.MOBGQFVGYU2F5CYT.SEARCH&ppt=None&ppn=None&ssid=a739op1j5s0000001767113877110&qH=a81ad6e72f7a2fd1",
     "page": 1,
     "product_id": "MOBGQFVGYU2F5CYT",
-    "scraped_at": "2025-12-30T22:32:30.383624+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156795",
     "specs_json": {
       "Warranty Summary": "1YR BRAND WARRANTY ON HANDSET & 6 MONTHS WARRANTY ON ACCESSORIES",
       "Warranty Service Type": "1 Year Brand Warranty",
@@ -4381,14 +4465,16 @@
     },
     "price": 1199,
     "title": "Nokia All-New 105 Single Sim Keypad Phone with Built-in UPI Payments",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 1199,
+    "value_score": 0.0
   },
   {
     "rating": 4.1,
     "product_url": "https://www.flipkart.com/poco-c71-desert-gold-128-gb/p/itm2a2ad903f91f4?pid=MOBHAFVJ8WXHR5FT&lid=LSTMOBHAFVJ8WXHR5FTKIOCQ2&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_1_3&otracker=search&fm=organic&iid=5e01cad2-c705-4a86-9409-44a11781e1b1.MOBHAFVJ8WXHR5FT.SEARCH&ppt=None&ppn=None&ssid=a739op1j5s0000001767113877110&qH=a81ad6e72f7a2fd1",
     "page": 1,
     "product_id": "MOBHAFVJ8WXHR5FT",
-    "scraped_at": "2025-12-30T22:32:34.617691+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156801",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
       "Domestic Warranty": "1 Year",
@@ -4491,14 +4577,16 @@
     },
     "price": 7299,
     "title": "POCO C71 (Desert Gold, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 7299,
+    "value_score": 0.0
   },
   {
     "rating": 4.5,
     "product_url": "https://www.flipkart.com/motorola-g57-power-5g-pantone-corsair-128-gb/p/itm9b745f1e67b5c?pid=MOBHGRFE8WBGKSKY&lid=LSTMOBHGRFE8WBGKSKYEYKWBJ&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_3_72&otracker=search&fm=organic&iid=51d21432-1b6c-4935-b3db-05ac155426cf.MOBHGRFE8WBGKSKY.SEARCH&ppt=None&ppn=None&ssid=7peq8ykg9c0000001767114172537&qH=a81ad6e72f7a2fd1",
     "page": 3,
     "product_id": "MOBHGRFE8WBGKSKY",
-    "scraped_at": "2025-12-30T22:33:04.360337+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156807",
     "specs_json": {
       "MMS": "Yes",
       "Graphics PPI": "391 ppi",
@@ -4510,7 +4598,7 @@
       "Warranty Period": "1 Year",
       "Battery Capacity": "7000 mAh",
       "Brand": "MOTOROLA",
-      "In The Box": "1 x Handset, 1 x USB Type-C cable, 1 x Guides, 1 x SIM tool, 1 x TurboPower™ 33W charger",
+      "In The Box": "1 x Handset, 1 x USB Type-C cable, 1 x Guides, 1 x SIM tool, 1 x TurboPower\u2122 33W charger",
       "Model Number": "PBAF0000IN|PBAF0003IN",
       "Model Name": "g57 power 5G",
       "Color": "Pantone Corsair",
@@ -4528,7 +4616,7 @@
       "Depth": "8.6 mm",
       "Weight": "210.6 g",
       "Display Size": "17.07 cm (6.72 inch)",
-      "Resolution": "2400p × 1080 pixels",
+      "Resolution": "2400p \u00d7 1080 pixels",
       "Resolution Type": "Full HD+",
       "Display Type": "LCD",
       "HD Game Support": "Yes",
@@ -4543,7 +4631,7 @@
       "RAM": "8 GB",
       "Primary Camera Available": "Yes",
       "Primary Camera": "50MP + 8MP",
-      "Primary Camera Features": "Shooting modes: Night Vision Mode, Auto Night Vision, Portrait, Panorama, Pro Mode (w/ Long Exposure), Live Filter, HDR, Adobe Scan, Ultra-Res, Artificial intelligence: Shot Optimization, Auto Smile Capture, Google Lens™ integration, Other features: High-res Digital Zoom (up to 8x), Timer, Burst shot, Snap in Video Recording, Assistive Grid, Leveler, Watermark, QR/ Barcode Scanner, Location Information, RAW Photo Output, Selfie Stick Support, Google Photos Editing: Magic Eraser, Photo Unblur, Reimagine, Auto Frame, Portrait Blur, Portrait Light, Sky, Color Pop, Cinematic Photos, Rear main camera: 2K (30fps), FHD (30fps/60fps), Rear ultra-wide angle:2K (30fps), FHD (30fps), Shooting modes: Dual Capture, Timelapse (w/ Hyperlapse), Slow Motion (HD@120fps, Live Filter, Other features: High-res Digital Zoom (up to 6x), Assistive Grid, Leveler, Video Stabilization (EIS), Audio Zoom",
+      "Primary Camera Features": "Shooting modes: Night Vision Mode, Auto Night Vision, Portrait, Panorama, Pro Mode (w/ Long Exposure), Live Filter, HDR, Adobe Scan, Ultra-Res, Artificial intelligence: Shot Optimization, Auto Smile Capture, Google Lens\u2122 integration, Other features: High-res Digital Zoom (up to 8x), Timer, Burst shot, Snap in Video Recording, Assistive Grid, Leveler, Watermark, QR/ Barcode Scanner, Location Information, RAW Photo Output, Selfie Stick Support, Google Photos Editing: Magic Eraser, Photo Unblur, Reimagine, Auto Frame, Portrait Blur, Portrait Light, Sky, Color Pop, Cinematic Photos, Rear main camera: 2K (30fps), FHD (30fps/60fps), Rear ultra-wide angle:2K (30fps), FHD (30fps), Shooting modes: Dual Capture, Timelapse (w/ Hyperlapse), Slow Motion (HD@120fps, Live Filter, Other features: High-res Digital Zoom (up to 6x), Assistive Grid, Leveler, Video Stabilization (EIS), Audio Zoom",
       "Secondary Camera": "8MP Front Camera",
       "Secondary Camera Features": "Portrait, Pro Mode, Photo Booth, Auto Smile Capture, AutoNight Vision, Gesture Selfie, Face Retouch, Selfie Photo Mirror",
       "Flash": "Dual LED flash",
@@ -4564,14 +4652,16 @@
     },
     "price": 14999,
     "title": "MOTOROLA g57 power 5G (Pantone Corsair, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 14999,
+    "value_score": 0.0
   },
   {
     "rating": 4.3,
     "product_url": "https://www.flipkart.com/poco-x7-pro-5g-yellow-256-gb/p/itm0a066ed95064a?pid=MOBH7YZ9J6QGZZEQ&lid=LSTMOBH7YZ9J6QGZZEQCBSSSP&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_4_96&otracker=search&fm=organic&iid=ffef3f48-2d7e-41cb-9649-66c039afd00e.MOBH7YZ9J6QGZZEQ.SEARCH&ppt=None&ppn=None&ssid=nl3p2z6ksg0000001767114178850&qH=a81ad6e72f7a2fd1",
     "page": 4,
     "product_id": "MOBH7YZ9J6QGZZEQ",
-    "scraped_at": "2025-12-30T22:33:10.154337+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156816",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
       "Domestic Warranty": "1 Year",
@@ -4677,14 +4767,16 @@
     },
     "price": 21999,
     "title": "POCO X7 Pro 5G (Yellow, 256 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 21999,
+    "value_score": 0.0
   },
   {
     "rating": 4.5,
     "product_url": "https://www.flipkart.com/oneplus-nord-5-5g-dry-ice-256-gb/p/itme333f56ade583?pid=MOBHDVHGYJM6EEHE&lid=LSTMOBHDVHGYJM6EEHEEXSF7U&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_4_95&otracker=search&fm=organic&iid=ffef3f48-2d7e-41cb-9649-66c039afd00e.MOBHDVHGYJM6EEHE.SEARCH&ppt=None&ppn=None&ssid=nl3p2z6ksg0000001767114178850&qH=a81ad6e72f7a2fd1",
     "page": 4,
     "product_id": "MOBHDVHGYJM6EEHE",
-    "scraped_at": "2025-12-30T22:33:16.412365+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156824",
     "specs_json": {
       "Warranty Summary": "1 Year Warranty",
       "Warranty Period": "12 Months",
@@ -4716,14 +4808,16 @@
     },
     "price": 37405,
     "title": "OnePlus Nord 5 5G (Dry Ice, 256 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 37405,
+    "value_score": 0.0
   },
   {
     "rating": 4.4,
     "product_url": "https://www.flipkart.com/oneplus-nord-ce4-lite-5g-mega-blue-128-gb/p/itm8fd5fdf300955?pid=MOBH25Z9CCTDDN3J&lid=LSTMOBH25Z9CCTDDN3JYMXGVX&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_4_94&otracker=search&fm=organic&iid=ffef3f48-2d7e-41cb-9649-66c039afd00e.MOBH25Z9CCTDDN3J.SEARCH&ppt=None&ppn=None&ssid=nl3p2z6ksg0000001767114178850&qH=a81ad6e72f7a2fd1",
     "page": 4,
     "product_id": "MOBH25Z9CCTDDN3J",
-    "scraped_at": "2025-12-30T22:33:22.706287+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156832",
     "specs_json": {
       "Warranty Summary": "1 year",
       "Warranty Period": "12 Months",
@@ -4755,14 +4849,16 @@
     },
     "price": 17899,
     "title": "OnePlus Nord CE4 lite 5G (MEGA BLUE, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 17899,
+    "value_score": 0.0
   },
   {
     "rating": 4.2,
     "product_url": "https://www.flipkart.com/poco-c75-5g-silver-stardust-128-gb/p/itmbf9aead7ca613?pid=MOBHBC3WSG3RWZ2Q&lid=LSTMOBHBC3WSG3RWZ2QLUHLCI&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_4_93&otracker=search&fm=organic&iid=ffef3f48-2d7e-41cb-9649-66c039afd00e.MOBHBC3WSG3RWZ2Q.SEARCH&ppt=None&ppn=None&ssid=nl3p2z6ksg0000001767114178850&qH=a81ad6e72f7a2fd1",
     "page": 4,
     "product_id": "MOBHBC3WSG3RWZ2Q",
-    "scraped_at": "2025-12-30T22:33:28.632409+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156839",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
       "Domestic Warranty": "1 Year",
@@ -4868,14 +4964,16 @@
     },
     "price": 8749,
     "title": "POCO C75 5G (Silver Stardust, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 8749,
+    "value_score": 0.0
   },
   {
     "rating": 4.5,
     "product_url": "https://www.flipkart.com/vivo-t4-pro-5g-blaze-gold-256-gb/p/itm4da1824b696d9?pid=MOBHF4F9YFEME9AY&lid=LSTMOBHF4F9YFEME9AYJ2JEFW&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_4_92&otracker=search&fm=organic&iid=ffef3f48-2d7e-41cb-9649-66c039afd00e.MOBHF4F9YFEME9AY.SEARCH&ppt=None&ppn=None&ssid=nl3p2z6ksg0000001767114178850&qH=a81ad6e72f7a2fd1",
     "page": 4,
     "product_id": "MOBHF4F9YFEME9AY",
-    "scraped_at": "2025-12-30T22:33:34.566265+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156847",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories",
       "Domestic Warranty": "1 Year",
@@ -4888,7 +4986,7 @@
       "Depth": "7.53 mm",
       "Weight": "192 g",
       "Display Size": "17.2 cm (6.77 inch)",
-      "Resolution": "2392 × 1080 Pixels",
+      "Resolution": "2392 \u00d7 1080 Pixels",
       "Display Colors": "1.07 Billion Colors",
       "Other Display Features": "Camera Flash: Rear flash , Rear fill light supported, Refresh Rate - 120 Hz, Touch Screen- Capacitive multi-touch, Fingerprint Sensor Type - In-display optical fingerprint sensor, Color Gamut - P3 wide color gamut supported",
       "Operating System": "Android 15",
@@ -4901,10 +4999,10 @@
       "Operating Frequency": "2G GSM: 850 MHz / 900 MHz / 1800 MHz, 3G WCDMA: B1/B4/B5/B6/B8/B19, 4G FDD-LTE: B1/B3/B4/B5/B7/B8/B18/B19/B20/B26/B28/B66, 4G TD-LTE: B38/B39/B40/B41/B42, 5G: n1/n3/n5/n8/n28/n38/n40/n41/n66/n77/n78",
       "Primary Camera Available": "Yes",
       "Primary Camera": "50MP + 2MP + 50MP",
-      "Primary Camera Features": "Rear Camera Setup: 50 MP Sony IMX882 OIS Camera: OIS, f/1.79, FOV 79°, 5P lens + 50 MP Sony IMX882 3x Periscope Camera: OIS, f/2.65, FOV 33°, 4P lens + 2 MP Bokeh Camera: f/2.4, FOV 81°, 3P lens, Features: Snapshot, Night, Portrait, Photo, Video, High Resolution, Pano, Ultra HD Document, Slo-mo, Time-lapse, Supermoon, Pro, Food, Underwater Photography, Dual View, Live Photo",
+      "Primary Camera Features": "Rear Camera Setup: 50 MP Sony IMX882 OIS Camera: OIS, f/1.79, FOV 79\u00b0, 5P lens + 50 MP Sony IMX882 3x Periscope Camera: OIS, f/2.65, FOV 33\u00b0, 4P lens + 2 MP Bokeh Camera: f/2.4, FOV 81\u00b0, 3P lens, Features: Snapshot, Night, Portrait, Photo, Video, High Resolution, Pano, Ultra HD Document, Slo-mo, Time-lapse, Supermoon, Pro, Food, Underwater Photography, Dual View, Live Photo",
       "Secondary Camera Available": "Yes",
       "Secondary Camera": "32MP Front Camera",
-      "Secondary Camera Features": "Front Camera Setup: 32 MP Selfie Camera: f/2.45, FOV 72°, 5P lens, Features: Photo, Portrait, Video, Dual View",
+      "Secondary Camera Features": "Front Camera Setup: 32 MP Selfie Camera: f/2.45, FOV 72\u00b0, 5P lens, Features: Photo, Portrait, Video, Dual View",
       "Flash": "Rear flash",
       "Video Recording": "Yes",
       "Dual Camera Lens": "Primary Camera",
@@ -4961,14 +5059,16 @@
     },
     "price": 29999,
     "title": "vivo T4 Pro 5G (Blaze Gold, 256 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 29999,
+    "value_score": 0.0
   },
   {
     "rating": 4.4,
     "product_url": "https://www.flipkart.com/realme-p4-5g-steel-grey-128-gb/p/itmf836e6de035a5?pid=MOBHERXF2RUHQMXE&lid=LSTMOBHERXF2RUHQMXERDGMNE&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_4_91&otracker=search&fm=organic&iid=ffef3f48-2d7e-41cb-9649-66c039afd00e.MOBHERXF2RUHQMXE.SEARCH&ppt=None&ppn=None&ssid=nl3p2z6ksg0000001767114178850&qH=a81ad6e72f7a2fd1",
     "page": 4,
     "product_id": "MOBHERXF2RUHQMXE",
-    "scraped_at": "2025-12-30T22:33:40.421076+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156856",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories",
       "Domestic Warranty": "1 Year",
@@ -5017,7 +5117,7 @@
       "Sensors": "Proximity Sensor, Ambient Light Sensor, Color Temperature Sensor, E-Compass, Accelerometer, Gyroscope, In Display Optical Fingerprint Sensor, Infrared Remote Control",
       "Games": "Supports",
       "Ringtones Format": "MP3, AAC, AMR, APE, OGG, FLAC, WAV, MIDI, WMA",
-      "Other Features": "COP Packaging Process, Netflix HDR, Hi-Res Audio Certification, TUV Rheinland Low Blue Light Content, Supports HDR10 + Certified, Recyclability�Rate: 90.96%, Dual RAM Channel, UFS 3.1, RAM Expansion Upto 8 GB, OTG Storage Format: FAT32, NTFS, EXFAT, Supports OTG Data Transmission, Maximum OTG Storage Supported 2TB, Supported VOOC Charge, Support Wired 10W Reverse Charging, Super Volume: 300% (Media Play), 200% (Handheld Call), Supports Video Sound Zoom, IP Rating: IP65/66, Vibration Motor: Rotor Motor, OReality Audio, Dual Mic Noise Cancellation, Dual Microphones, Supports Sim Card Contacts Import and Export, Contacts Grouping, Customized Grouping, Display Background For Incoming Calls, Display Caller's Profile Picture, Answering Phone Calls Using Earphones, Supports Automatic Call Recording, Bluetooth Audio Specifications: SBC, AAC, aptX HD, aptX, LHDC 5.0, LDAC, Supports IPv6, Google Lens, Mobile Screencast, Ending Calls with Power Button, Third Party App Widget, Kid Space (Guest Mode), Split Screen Mode, Incoming Call Banner, Step Counting, Screen Recording, Clock Widget, World Clock, Video Editing Options: Edit, Crop & Rotate, Theme, Filter, Soundtrack, Effects, Speed, Text, Watermark, Gestures & Motions: Screen Off Gestures, Lift to Ear to Answer Calls, Raise to Wake, 3 Finger Screenshot, Air Gesture, Data Backup and Restore, Weather Widget, Mini Window Mode/Playing Videos in Floating Window, Game Voice Changer: Supports Mainstream Games Such as PUBG and BGMI, Game Space, Games Assistant, Voice Wake Up, Compass, Recently Deleted (Album Recycle Bin), L1 and L3 Widevine Encrypted Video, App Cloner, App Lock Method: Numeric, Alphanumeric Password, Pattern, Fingerprint, Face, File Compression and Extraction, Face Recognition, Fingerprint Payment",
+      "Other Features": "COP Packaging Process, Netflix HDR, Hi-Res Audio Certification, TUV Rheinland Low Blue Light Content, Supports HDR10 + Certified, Recyclability\ufffdRate: 90.96%, Dual RAM Channel, UFS 3.1, RAM Expansion Upto 8 GB, OTG Storage Format: FAT32, NTFS, EXFAT, Supports OTG Data Transmission, Maximum OTG Storage Supported 2TB, Supported VOOC Charge, Support Wired 10W Reverse Charging, Super Volume: 300% (Media Play), 200% (Handheld Call), Supports Video Sound Zoom, IP Rating: IP65/66, Vibration Motor: Rotor Motor, OReality Audio, Dual Mic Noise Cancellation, Dual Microphones, Supports Sim Card Contacts Import and Export, Contacts Grouping, Customized Grouping, Display Background For Incoming Calls, Display Caller's Profile Picture, Answering Phone Calls Using Earphones, Supports Automatic Call Recording, Bluetooth Audio Specifications: SBC, AAC, aptX HD, aptX, LHDC 5.0, LDAC, Supports IPv6, Google Lens, Mobile Screencast, Ending Calls with Power Button, Third Party App Widget, Kid Space (Guest Mode), Split Screen Mode, Incoming Call Banner, Step Counting, Screen Recording, Clock Widget, World Clock, Video Editing Options: Edit, Crop & Rotate, Theme, Filter, Soundtrack, Effects, Speed, Text, Watermark, Gestures & Motions: Screen Off Gestures, Lift to Ear to Answer Calls, Raise to Wake, 3 Finger Screenshot, Air Gesture, Data Backup and Restore, Weather Widget, Mini Window Mode/Playing Videos in Floating Window, Game Voice Changer: Supports Mainstream Games Such as PUBG and BGMI, Game Space, Games Assistant, Voice Wake Up, Compass, Recently Deleted (Album Recycle Bin), L1 and L3 Widevine Encrypted Video, App Cloner, App Lock Method: Numeric, Alphanumeric Password, Pattern, Fingerprint, Face, File Compression and Extraction, Face Recognition, Fingerprint Payment",
       "GPS Type": "BEIDOU, GPS, GLONASS, GALILEO, QZSS",
       "FM Radio": "No",
       "FM Radio Recording": "No",
@@ -5069,14 +5169,16 @@
     },
     "price": 18499,
     "title": "realme P4 5G (Steel Grey, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 18499,
+    "value_score": 0.0
   },
   {
     "rating": 4.5,
     "product_url": "https://www.flipkart.com/nothing-phone-3a-blue-128-gb/p/itm49557c5a65f9c?pid=MOBH8G3PYHZQBHED&lid=LSTMOBH8G3PYHZQBHEDSJY96C&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_4_90&otracker=search&fm=organic&iid=ffef3f48-2d7e-41cb-9649-66c039afd00e.MOBH8G3PYHZQBHED.SEARCH&ppt=None&ppn=None&ssid=nl3p2z6ksg0000001767114178850&qH=a81ad6e72f7a2fd1",
     "page": 4,
     "product_id": "MOBH8G3PYHZQBHED",
-    "scraped_at": "2025-12-30T22:33:45.210459+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156865",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturing Warranty",
       "Warranty Service Type": "Offsite Warranty",
@@ -5180,14 +5282,16 @@
     },
     "price": 24999,
     "title": "Nothing Phone (3a) (Blue, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 24999,
+    "value_score": 0.0
   },
   {
     "rating": 4.4,
     "product_url": "https://www.flipkart.com/vivo-t4x-5g-marine-blue-128-gb/p/itm017656bdd097b?pid=MOBH9JUSTWEMVADU&lid=LSTMOBH9JUSTWEMVADUWC2KM6&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_4_89&otracker=search&fm=organic&iid=ffef3f48-2d7e-41cb-9649-66c039afd00e.MOBH9JUSTWEMVADU.SEARCH&ppt=None&ppn=None&ssid=nl3p2z6ksg0000001767114178850&qH=a81ad6e72f7a2fd1",
     "page": 4,
     "product_id": "MOBH9JUSTWEMVADU",
-    "scraped_at": "2025-12-30T22:33:51.997120+05:30",
+    "scraped_at": "2025-12-30T22:34:11.156873",
     "specs_json": {
       "Warranty Summary": "1 Year Warranty for Device and 6 Months Warranty for Accessories",
       "Domestic Warranty": "1 Year",
@@ -5272,14 +5376,16 @@
     },
     "price": 15499,
     "title": "vivo T4x 5G (Marine Blue, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 15499,
+    "value_score": 0.0
   },
   {
     "rating": 4.5,
     "product_url": "https://www.flipkart.com/nothing-phone-3a-white-128-gb/p/itm49557c5a65f9c?pid=MOBH8G3PK4RZFYAA&lid=LSTMOBH8G3PK4RZFYAAWQRDU6&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_4_88&otracker=search&fm=organic&iid=ffef3f48-2d7e-41cb-9649-66c039afd00e.MOBH8G3PK4RZFYAA.SEARCH&ppt=None&ppn=None&ssid=nl3p2z6ksg0000001767114178850&qH=a81ad6e72f7a2fd1",
     "page": 4,
     "product_id": "MOBH8G3PK4RZFYAA",
-    "scraped_at": "2025-12-30T22:33:57.182764+05:30",
+    "scraped_at": "2025-12-30T22:34:11.157463",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturing Warranty",
       "Warranty Service Type": "Offsite Warranty",
@@ -5383,14 +5489,16 @@
     },
     "price": 24999,
     "title": "Nothing Phone (3a) (White, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 24999,
+    "value_score": 0.0
   },
   {
     "rating": 4.4,
     "product_url": "https://www.flipkart.com/nothing-phone-3a-pro-grey-256-gb/p/itm04daaef6652d4?pid=MOBH8G3PHZS7CNYC&lid=LSTMOBH8G3PHZS7CNYCWZL6OB&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_4_87&otracker=search&fm=organic&iid=ffef3f48-2d7e-41cb-9649-66c039afd00e.MOBH8G3PHZS7CNYC.SEARCH&ppt=None&ppn=None&ssid=nl3p2z6ksg0000001767114178850&qH=a81ad6e72f7a2fd1",
     "page": 4,
     "product_id": "MOBH8G3PHZS7CNYC",
-    "scraped_at": "2025-12-30T22:34:03.727827+05:30",
+    "scraped_at": "2025-12-30T22:34:11.157497",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturing Warranty",
       "Warranty Service Type": "Offsite Warranty",
@@ -5494,14 +5602,16 @@
     },
     "price": 32999,
     "title": "Nothing Phone (3a) Pro (Grey, 256 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 32999,
+    "value_score": 0.0
   },
   {
     "rating": 4.5,
     "product_url": "https://www.flipkart.com/vivo-t4-pro-5g-nitro-blue-128-gb/p/itm4da1824b696d9?pid=MOBHF4F9H4PJUZGF&lid=LSTMOBHF4F9H4PJUZGF1DQ7FC&marketplace=FLIPKART&q=mobile+phones&store=tyy%2F4io&srno=s_4_86&otracker=search&fm=organic&iid=ffef3f48-2d7e-41cb-9649-66c039afd00e.MOBHF4F9H4PJUZGF.SEARCH&ppt=None&ppn=None&ssid=nl3p2z6ksg0000001767114178850&qH=a81ad6e72f7a2fd1",
     "page": 4,
     "product_id": "MOBHF4F9H4PJUZGF",
-    "scraped_at": "2025-12-30T22:34:09.690461+05:30",
+    "scraped_at": "2025-12-30T22:34:11.157506",
     "specs_json": {
       "Warranty Summary": "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories",
       "Domestic Warranty": "1 Year",
@@ -5514,7 +5624,7 @@
       "Depth": "7.53 mm",
       "Weight": "192 g",
       "Display Size": "17.2 cm (6.77 inch)",
-      "Resolution": "2392 × 1080 Pixels",
+      "Resolution": "2392 \u00d7 1080 Pixels",
       "Display Colors": "1.07 Billion Colors",
       "Other Display Features": "Camera Flash: Rear flash , Rear fill light supported, Refresh Rate - 120 Hz, Touch Screen- Capacitive multi-touch, Fingerprint Sensor Type - In-display optical fingerprint sensor, Color Gamut - P3 wide color gamut supported",
       "Operating System": "Android 15",
@@ -5527,10 +5637,10 @@
       "Operating Frequency": "2G GSM: 850 MHz / 900 MHz / 1800 MHz, 3G WCDMA: B1/B4/B5/B6/B8/B19, 4G FDD-LTE: B1/B3/B4/B5/B7/B8/B18/B19/B20/B26/B28/B66, 4G TD-LTE: B38/B39/B40/B41/B42, 5G: n1/n3/n5/n8/n28/n38/n40/n41/n66/n77/n78",
       "Primary Camera Available": "Yes",
       "Primary Camera": "50MP + 2MP + 50MP",
-      "Primary Camera Features": "Rear Camera Setup: 50 MP Sony IMX882 OIS Camera: OIS, f/1.79, FOV 79°, 5P lens + 50 MP Sony IMX882 3x Periscope Camera: OIS, f/2.65, FOV 33°, 4P lens + 2 MP Bokeh Camera: f/2.4, FOV 81°, 3P lens, Features: Snapshot, Night, Portrait, Photo, Video, High Resolution, Pano, Ultra HD Document, Slo-mo, Time-lapse, Supermoon, Pro, Food, Underwater Photography, Dual View, Live Photo",
+      "Primary Camera Features": "Rear Camera Setup: 50 MP Sony IMX882 OIS Camera: OIS, f/1.79, FOV 79\u00b0, 5P lens + 50 MP Sony IMX882 3x Periscope Camera: OIS, f/2.65, FOV 33\u00b0, 4P lens + 2 MP Bokeh Camera: f/2.4, FOV 81\u00b0, 3P lens, Features: Snapshot, Night, Portrait, Photo, Video, High Resolution, Pano, Ultra HD Document, Slo-mo, Time-lapse, Supermoon, Pro, Food, Underwater Photography, Dual View, Live Photo",
       "Secondary Camera Available": "Yes",
       "Secondary Camera": "32MP Front Camera",
-      "Secondary Camera Features": "Front Camera Setup: 32 MP Selfie Camera: f/2.45, FOV 72°, 5P lens, Features: Photo, Portrait, Video, Dual View",
+      "Secondary Camera Features": "Front Camera Setup: 32 MP Selfie Camera: f/2.45, FOV 72\u00b0, 5P lens, Features: Photo, Portrait, Video, Dual View",
       "Flash": "Rear flash",
       "Video Recording": "Yes",
       "Dual Camera Lens": "Primary Camera",
@@ -5587,6 +5697,8 @@
     },
     "price": 27999,
     "title": "vivo T4 Pro 5G (Nitro Blue, 128 GB)",
-    "category": "mobile phones"
+    "category": "mobile phones",
+    "price_numeric": 27999,
+    "value_score": 0.0
   }
 ]

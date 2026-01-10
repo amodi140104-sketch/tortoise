@@ -4,7 +4,12 @@ from urllib.parse import urlencode, urlparse, parse_qs
 from datetime import datetime, timezone, timedelta
 from scrapy.exceptions import CloseSpider
 from tortoise.items import FlipkartProductItem
-from tortoise.utils.jsonld import extract_products_from_jsonld
+from tortoise.utils.jsonld import (
+    extract_products_from_jsonld,
+    extract_specifications,
+    compute_spec_confidence,
+    extract_price_info,
+)
 
 
 class FlipkartSearchSpider(scrapy.Spider):
@@ -122,6 +127,8 @@ class FlipkartSearchSpider(scrapy.Spider):
                     price = None
         item["price"] = price
 
+        # Discount fields removed per user preference; only store canonical `price`.
+
         # --- RATING ---
         rating = product.get("aggregateRating", {})
         rating_value = rating.get("ratingValue")
@@ -135,6 +142,19 @@ class FlipkartSearchSpider(scrapy.Spider):
         # Convert scraped time to IST (UTC+05:30)
         ist = timezone(timedelta(hours=5, minutes=30))
         item["scraped_at"] = datetime.now(ist).isoformat()
+
+        # --- SPECIFICATIONS ---
+        try:
+            specs, raw_html = extract_specifications(response)
+            item["specs_json"] = specs or {}
+            item["raw_spec_html"] = raw_html
+            # compute a conservative confidence score based on presence of core keys
+            item["extraction_confidence"] = compute_spec_confidence(item["specs_json"])
+        except Exception as exc:
+            self.logger.exception(f"Spec extraction failed for {product_id}: {exc}")
+            item["specs_json"] = {}
+            item["raw_spec_html"] = None
+            item["extraction_confidence"] = 0.0
 
         yield item
 

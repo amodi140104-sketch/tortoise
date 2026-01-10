@@ -48,9 +48,27 @@ class FlipkartPipeline:
 
         self.seen_ids.add(pid)
 
-        # Persist item; if DB write fails, log and continue so the feed exporter still gets the item
+        # Persist a sanitized item with ONLY allowed output keys (discount fields removed)
+        allowed = {
+            "product_id",
+            "title",
+            "product_url",
+            "price",
+            "rating",
+            "category",
+            "page",
+            "scraped_at",
+            "specs_json",
+        }
+
         try:
-            self.storage.save_item(item)
+            sanitized = {k: item[k] for k in allowed if k in item}
+        except Exception:
+            sanitized = {k: item.get(k) for k in allowed}
+
+        # Persist sanitized item; if DB write fails, log and continue so the feed exporter still gets the item
+        try:
+            self.storage.save_item(sanitized)
         except Exception as exc:
             spider.logger.error(f"Failed to persist item {pid}: {exc}")
 
@@ -104,7 +122,25 @@ class JsonArrayPipeline:
             return item
 
         # Update the in-memory map and rewrite file periodically
-        self.items_by_id[pid] = dict(item)
+        # sanitize: remove typed spec_* fields before writing
+        try:
+            sanitized = dict(item)
+            allowed = {
+                "product_id",
+                "title",
+                "product_url",
+                "price",
+                "rating",
+                "category",
+                "page",
+                "scraped_at",
+                "specs_json",
+            }
+            sanitized = {k: sanitized[k] for k in allowed if k in sanitized}
+        except Exception:
+            sanitized = {k: item.get(k) for k in allowed}
+
+        self.items_by_id[pid] = sanitized
         self._item_count += 1
         if self.write_every <= 1 or (self._item_count % self.write_every) == 0:
             self._write_file()
@@ -163,8 +199,24 @@ class JsonArrayPipeline:
             # Skip items without id (FlipkartPipeline already drops them, but be safe)
             return item
 
-        # Update the in-memory map and rewrite file
-        self.items_by_id[pid] = dict(item)
+        # Update the in-memory map and rewrite file; sanitize to allowed fields
+        try:
+            allowed = {
+                "product_id",
+                "title",
+                "product_url",
+                "price",
+                "rating",
+                "category",
+                "page",
+                "scraped_at",
+                "specs_json",
+            }
+            sanitized = {k: item[k] for k in allowed if k in item}
+        except Exception:
+            sanitized = {k: item.get(k) for k in allowed}
+
+        self.items_by_id[pid] = sanitized
         self._write_file()
         return item
 
